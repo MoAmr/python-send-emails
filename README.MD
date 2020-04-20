@@ -4,6 +4,12 @@ Illustrating how to send emails using Python
 # Python Documentation:
 https://docs.python.org/3/
 
-# Examples for using the email package package to 
-# read, write, and send simple email messages, as well as more complex MIME messages.
+# Email Module
 https://docs.python.org/3.8/library/email.examples.html
+
+# Simple Mail Transfer Protocol (SMTP)
+https://www.geeksforgeeks.org/simple-mail-transfer-protocol-smtp/
+
+# If you get SMTPAuthenticationError when attempting to access your gmail account, try this:
+https://support.google.com/accounts/answer/6010255
+https://myaccount.google.com/lesssecureapps 
